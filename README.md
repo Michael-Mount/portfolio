@@ -1,36 +1,83 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Michael Mount Portfolio
 
-## Getting Started
+A modern, responsive portfolio website built to showcase my web development projects, provide quick access to my work, and give visitors an easy way to contact me.
 
-First, run the development server:
+## Overview
+
+**Michael Mount Portfolio** is a personal portfolio website designed to highlight selected projects, technical skills, and professional work as a frontend/web developer.
+
+The site focuses on a clean user experience, responsive layouts, smooth animation, and easy navigation so recruiters, employers, clients, and collaborators can quickly explore my work.
+
+## Features
+
+- Responsive design for desktop, tablet, and mobile
+- Project showcase with links to completed work
+- Contact section for easy communication
+- Smooth animations powered by GSAP
+- Clean, modern UI built with Tailwind CSS
+- Mobile-friendly layout and navigation
+
+## Tech Stack
+
+- **Next.js** – React framework for building the application
+- **Tailwind CSS** – Utility-first CSS framework for styling
+- **GSAP** – Animation library for smooth frontend interactions
+
+## Installation
+
+To run this project locally, clone the repository and install dependencies:
+
+```bash
+npm install
+```
+
+Start the development server:
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Then open the project in your browser:
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+```bash
+http://localhost:3000
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## Project Goals
 
-## Learn More
+The goal of this portfolio was to create a professional online presence that clearly presents my work, skills, and contact information.
 
-To learn more about Next.js, take a look at the following resources:
+The project was built with a focus on:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- Clean visual presentation
+- Easy project discovery
+- Strong mobile responsiveness
+- Smooth animated interactions
+- Simple navigation for recruiters and visitors
+- A polished frontend experience
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## Screenshots
 
-## Deploy on Vercel
+### Portfolio Section
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+![Portfolio Screenshot](./public/portfolio-screenshot.png)
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+### Contact Section
+
+![Contact Screenshot](./public/contact-screenshot.png)
+
+## What I Learned
+
+While building this portfolio, I continued improving my ability to structure responsive Next.js layouts, use Tailwind CSS efficiently, and add polished animation with GSAP. I also focused on creating a user-friendly experience that presents projects clearly and professionally.
+
+## Future Improvements
+
+- Add more detailed case studies for each project
+- Add filtering by project type or technology
+- Improve project data management with a CMS or structured data file
+- Add more animation polish and page transitions
+- Continue updating the portfolio with new work
+
+## Author
+
+Built by **Michael Mount**
