@@ -9,6 +9,14 @@ gsap.registerPlugin(ScrollTrigger);
 
 const projects = [
   {
+    title: "Job Application Traker",
+    type: "Personal Project Website",
+    description:
+      "Job Application Tracker is a customizable dashboard that helps users organize and manage their job search by creating custom columns and moving application cards through each stage of the hiring process",
+    tools: ["Next.js", "Typescript", "MongoDB", "Auth"],
+    href: "https://jobapplicationtracker-bay.vercel.app/",
+  },
+  {
     title: "Sabal House",
     type: "Client Website",
     description:
