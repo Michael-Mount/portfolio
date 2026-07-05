@@ -9,6 +9,14 @@ gsap.registerPlugin(ScrollTrigger);
 
 const projects = [
   {
+    title: "Amazon Prime Video Discovery Prototype",
+    type: "Personal Project Website",
+    description:
+      "Amazon Prime Video Discovery Prototype is a responsive streaming discovery interface that lets users browse featured movies, search by title, filter by genre, view movie details, save titles to a watchlist, and revisit recently watched content.",
+    tools: ["React.js", "JavaScript", "Tailwind CSS", "Vite", "LocalStorage"],
+    href: "https://michael-mount.github.io/prime-video-discovery/",
+  },
+  {
     title: "Job Application Traker",
     type: "Personal Project Website",
     description:
