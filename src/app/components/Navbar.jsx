@@ -27,7 +27,7 @@ const navLinks = [
   },
   {
     label: "GitHub",
-    href: "https://github.com/mmount98",
+    href: "https://github.com/Michael-Mount",
     external: true,
   },
   {
