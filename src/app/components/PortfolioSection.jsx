@@ -30,7 +30,7 @@ const projects = [
     description:
       "A responsive hotel website focused on clean layouts, strong visual hierarchy, and easy navigation for guests exploring rooms, dining, and local experiences.",
     tools: ["Next.js", "JavaScript", "Tailwind CSS", "GSAP"],
-    href: "https://sabal-house.vercel.app/",
+    href: "https://www.sabalhouse.com/",
   },
   {
     title: "Greystone Proposal Site",
